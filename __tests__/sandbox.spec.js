@@ -1,5 +1,4 @@
 import { chromium } from "playwright";
-import assert from "assert";
 
 let page;
 let browser;
@@ -29,7 +28,7 @@ describe("Sandbox", () => {
     await page.waitFor("h1");
     const title = await page.$eval("h1", el => el.textContent);
 
-    assert.strictEqual(await page.title(), "Sandbox");
-    assert.strictEqual(title, "Sandbox");
+    expect(await page.title()).toEqual("Sandbox");
+    expect(title).toEqual("Sandbox");
   });
 });
