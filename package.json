@@ -1,7 +1,7 @@
 {
-  "name": "playwright-es6modules-babel-jest-assert",
+  "name": "playwright-es6modules-babel-jest-expect",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Assert.",
+  "description": "Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Expect.",
   "scripts": {
     "test": "jest",
     "lint": "npx eslint --ext .js ./ --fix"
