@@ -1,4 +1,4 @@
-name: playwright-es6-modules-babeljs-jest-assert
+name: playwright-es6-modules-babeljs-jest-expect
 
 on:
   push:
