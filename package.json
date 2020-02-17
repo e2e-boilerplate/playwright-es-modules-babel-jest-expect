@@ -1,18 +1,20 @@
 {
-  "name": "playwright-es6modules-babel-jest-expect",
+  "name": "playwright-es6-modules-babel-jest-expect",
   "version": "1.0.0",
   "description": "Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Expect.",
   "scripts": {
-    "test": "jest",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "jest"
   },
   "keywords": [
-    "puppeteer",
-    "es6 modules",
+    "playwright",
+    "es6",
     "babel",
     "jest",
     "boilerplate",
-    "example"
+    "example",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
