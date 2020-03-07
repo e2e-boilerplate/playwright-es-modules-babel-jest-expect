@@ -26,16 +26,16 @@
   },
   "keywords": [
     "babeljs",
-    "es modules",
+    "es",
     "expect",
     "jest",
     "playwright"
   ],
   "license": "MIT",
-  "name": "playwright-es6-modules-babeljs-jest-expect",
+  "name": "playwright-es-modules-babeljs-jest-expect",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/playwright-es6-modules-babeljs-jest-expect.git"
+    "url": "git+https://github.com/e2e-boilerplates/playwright-es-modules-babeljs-jest-expect.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
