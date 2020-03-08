@@ -1,6 +1,6 @@
 {
-  "author": "",
-  "description": "Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Expect.",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "description": "playwright end-to-end test automation boilerplate.",
   "devDependencies": {
     "@babel/core": "7.8.7",
     "@babel/plugin-transform-runtime": "7.8.3",
@@ -26,8 +26,13 @@
   },
   "keywords": [
     "babeljs",
+    "boilerplate",
+    "e2e",
+    "e2e tests",
     "es",
+    "example",
     "expect",
+    "integration test",
     "jest",
     "playwright"
   ],
