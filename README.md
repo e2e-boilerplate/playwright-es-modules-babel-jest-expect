@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/playwright-es-modules-babel-jest-expect](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect/workflows/playwright-es-modules-babel-jest-expect/badge.svg)](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect/actions?workflow=playwright-es-modules-babel-jest-expect)
+[![GitHub Actions status | e2e-boilerplate/playwright-es-modules-babel-jest-expect](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect/workflows/playwright-es-modules-babel-jest-expect/badge.svg)](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect/actions?workflow=playwright-es-modules-babel-jest-expect) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Playwright Boilerplate
 
