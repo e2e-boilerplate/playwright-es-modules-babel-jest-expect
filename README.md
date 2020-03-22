@@ -10,7 +10,3 @@ Playwright end-to-end test automation boilerplate, using ES Modules, Babel, Jest
     	2. cd playwright-es-modules-babel-jest-expect
     	3. npm install
     	4. npm run test
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/arial-white.png)](https://www.buymeacoffee.com/xgirma)
-
-<img width="200" alt="Screen Shot 2019-11-11 at 12 48 06 AM" src="https://cdn.buymeacoffee.com/buttons/arial-white.png">
